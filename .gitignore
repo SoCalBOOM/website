@@ -1,0 +1,26 @@
+# Quarto build state and rendered site
+/.quarto/
+/_site/
+**/*.quarto_ipynb
+
+# Python caches created by the navigation build script
+__pycache__/
+*.py[cod]
+
+# Local environments and secrets
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+
+# Editor metadata
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# macOS metadata
+.DS_Store
+**/.DS_Store
