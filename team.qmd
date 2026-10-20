@@ -1,5 +1,9 @@
 ---
 title: The Team
+lightbox:
+  effect: fade
+  desc-position: right
+  loop: true
 format:
   html:
     sidebar: false
@@ -10,27 +14,44 @@ format:
 ## 2025 organizing team
 
 This roster comes from the previous event website and should be reviewed
-before it is presented as the organizing team for the next meeting.
+before it is presented as the organizing team for the next meeting. Portraits
+are temporary initials artwork and can be replaced as headshots become
+available.
 :::
 
 ## Organizing committee
 
-- Dou Li — UCLA
-- Younan Zhao — UCLA
-- Anh Pham — UCLA
-- Derrick Richardson — UCLA
-- Minna Ho — UCLA
-- Marco Sandoval Belmar — UCLA
-- Jerome Guiet — UCLA
-- Conor Padmanabhan — UCLA
+::: {layout-ncol=4 .team-gallery}
+![Dou Li — UCLA](assets/img/team/dl.svg){.lightbox .team-portrait group="team-gallery"}
+
+![Younan Zhao — UCLA](assets/img/team/yz.svg){.lightbox .team-portrait group="team-gallery"}
+
+![Anh Pham — UCLA](assets/img/team/ap.svg){.lightbox .team-portrait group="team-gallery"}
+
+![Derrick Richardson — UCLA](assets/img/team/dr.svg){.lightbox .team-portrait group="team-gallery"}
+
+![Minna Ho — UCLA](assets/img/team/mh.svg){.lightbox .team-portrait group="team-gallery"}
+
+![Marco Sandoval Belmar — UCLA](assets/img/team/msb.svg){.lightbox .team-portrait group="team-gallery"}
+
+![Jerome Guiet — UCLA](assets/img/team/jg.svg){.lightbox .team-portrait group="team-gallery"}
+
+![Conor Padmanabhan — UCLA](assets/img/team/cp.svg){.lightbox .team-portrait group="team-gallery"}
+:::
 
 ## Faculty organizers and advisors
 
-- Daniele Bianchi — UCLA
-- Seth John — USC
-- Naomi Levine — USC
-- Patrick Rafter — UC Irvine
-- Thomas Weber — University of Rochester
+::: {layout-ncol=4 .team-gallery}
+![Daniele Bianchi — UCLA](assets/img/team/db.svg){.lightbox .team-portrait group="team-gallery"}
+
+![Seth John — USC](assets/img/team/sj.svg){.lightbox .team-portrait group="team-gallery"}
+
+![Naomi Levine — USC](assets/img/team/nl.svg){.lightbox .team-portrait group="team-gallery"}
+
+![Patrick Rafter — UC Irvine](assets/img/team/pr.svg){.lightbox .team-portrait group="team-gallery"}
+
+![Thomas Weber — University of Rochester](assets/img/team/tw.svg){.lightbox .team-portrait group="team-gallery"}
+:::
 
 For registration questions in 2025, the listed contact was Dou Li. Current
 contact responsibilities will be added to the [Contact Us](contact.qmd) page
