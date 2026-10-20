@@ -1,0 +1,39 @@
+---
+title: The Team
+format:
+  html:
+    sidebar: false
+    include-before-body: _includes/before-body-inner.html
+---
+
+::: {.callout-note}
+## 2025 organizing team
+
+This roster comes from the previous event website and should be reviewed
+before it is presented as the organizing team for the next meeting.
+:::
+
+## Organizing committee
+
+- Dou Li — UCLA
+- Younan Zhao — UCLA
+- Anh Pham — UCLA
+- Derrick Richardson — UCLA
+- Minna Ho — UCLA
+- Marco Sandoval Belmar — UCLA
+- Jerome Guiet — UCLA
+- Conor Padmanabhan — UCLA
+
+## Faculty organizers and advisors
+
+- Daniele Bianchi — UCLA
+- Seth John — USC
+- Naomi Levine — USC
+- Patrick Rafter — UC Irvine
+- Thomas Weber — University of Rochester
+
+For registration questions in 2025, the listed contact was Dou Li. Current
+contact responsibilities will be added to the [Contact Us](contact.qmd) page
+once confirmed.
+
+*[Source: archived organizer and contact list](https://socalboom.wordpress.com/home/contact-us/).*

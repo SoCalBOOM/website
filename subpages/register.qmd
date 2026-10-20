@@ -1,0 +1,26 @@
+<section id="register" class="services section event-home-section">
+<div class="container">
+<div class="section-title">
+<h2>Register</h2>
+<p>SoCal BOOM welcomes students, postdoctoral researchers, faculty, and other scientists interested in marine biogeochemistry. Registration details for the next meeting will be posted as soon as they are confirmed.</p>
+</div>
+
+<ul class="row event-home-links" data-aos="fade-up">
+<li class="col-lg-4 col-md-6 icon-box">
+<div class="icon"><i class="bx bx-edit"></i></div>
+<h3 class="title"><a href="/register.html">Registration</a></h3>
+<p class="description">Eligibility, deadlines, capacity, and registration updates.</p>
+</li>
+<li class="col-lg-4 col-md-6 icon-box">
+<div class="icon"><i class="bx bx-help-circle"></i></div>
+<h3 class="title"><a href="/faqs.html">Frequently Asked Questions</a></h3>
+<p class="description">Quick answers about attending and participating.</p>
+</li>
+<li class="col-lg-4 col-md-6 icon-box">
+<div class="icon"><i class="bx bx-envelope"></i></div>
+<h3 class="title"><a href="/contact.html">Contact the Team</a></h3>
+<p class="description">Reach the organizers with registration questions.</p>
+</li>
+</ul>
+</div>
+</section>

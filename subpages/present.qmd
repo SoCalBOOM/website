@@ -1,0 +1,26 @@
+<section id="present" class="services section section-bg event-home-section">
+<div class="container">
+<div class="section-title">
+<h2>Present</h2>
+<p>The symposium highlights work by graduate students and postdoctoral researchers through oral presentations, lightning talks, and posters.</p>
+</div>
+
+<ul class="row event-home-links" data-aos="fade-up">
+<li class="col-lg-4 col-md-6 icon-box">
+<div class="icon"><i class="bx bx-calendar"></i></div>
+<h3 class="title"><a href="/scientific-program/schedule.html">Schedule</a></h3>
+<p class="description">Explore the meeting's scientific and social program.</p>
+</li>
+<li class="col-lg-4 col-md-6 icon-box">
+<div class="icon"><i class="bx bx-file"></i></div>
+<h3 class="title"><a href="/scientific-program/abstracts.html">Abstracts</a></h3>
+<p class="description">Submission details and guidance for talks and posters.</p>
+</li>
+<li class="col-lg-4 col-md-6 icon-box">
+<div class="icon"><i class="bx bx-help-circle"></i></div>
+<h3 class="title"><a href="/faqs.html">Presenter FAQs</a></h3>
+<p class="description">Presentation formats, poster dimensions, and attendance.</p>
+</li>
+</ul>
+</div>
+</section>

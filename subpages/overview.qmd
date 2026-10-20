@@ -1,0 +1,92 @@
+::: {.row data-aos="fade-up"}
+::: {.col-lg-12 .d-flex .justify-content-center}
+<ul id="portfolio-flters" class="portfolio-filters">
+  <li data-filter=".filter-all" class="filter-active">All</li>
+  <li data-filter=".filter-register">Register</li>
+  <li data-filter=".filter-present">Present</li>
+  <li data-filter=".filter-travel">Travel &amp; Logistics</li>
+</ul>
+:::
+:::
+
+::: {.row .portfolio-container data-aos="fade-up" data-aos-delay="100"}
+
+::: {.col-lg-4 .col-md-6 .portfolio-item .filter-register .filter-all}
+::: {.portfolio-wrap .event-snapshot-card data-filter-trigger=".filter-register"}
+<div class="event-snapshot-visual event-snapshot-register">
+  <i class="bx bx-edit"></i>
+  <span>Register</span>
+</div>
+
+::: {.portfolio-links}
+[Details](/register.html){title="Registration details"}
+:::
+:::
+:::
+
+::: {.col-lg-4 .col-md-6 .portfolio-item .filter-present .filter-all}
+::: {.portfolio-wrap .event-snapshot-card data-filter-trigger=".filter-present"}
+<div class="event-snapshot-visual event-snapshot-present">
+  <i class="bx bx-slideshow"></i>
+  <span>Present</span>
+</div>
+
+::: {.portfolio-links}
+[Schedule](/scientific-program/schedule.html){title="Scientific program"}
+[Abstracts](/scientific-program/abstracts.html){title="Abstract information"}
+:::
+:::
+:::
+
+::: {.col-lg-4 .col-md-6 .portfolio-item .filter-travel .filter-all}
+::: {.portfolio-wrap .event-snapshot-card data-filter-trigger=".filter-travel"}
+<div class="event-snapshot-visual event-snapshot-travel">
+  <i class="bx bx-map"></i>
+  <span>Travel &amp; Logistics</span>
+</div>
+
+::: {.portfolio-links}
+[Details](/travel-logistics.html){title="Travel and logistics"}
+:::
+:::
+:::
+
+::: {.col-lg-12 .portfolio-item .filter-all .event-overview-summary}
+**Register:** Find attendance eligibility, deadlines, capacity, and registration updates on the [Register page](/register.html).
+
+**Present:** Review the [scientific schedule](/scientific-program/schedule.html) and [abstract and presenter information](/scientific-program/abstracts.html).
+
+**Travel & Logistics:** Check the [travel page](/travel-logistics.html) for venue, parking, public transportation, lodging, and accessibility information.
+:::
+
+::: {.col-lg-8 .col-md-10 .portfolio-item .filter-register .event-overview-detail}
+### [Register](/register.html)
+
+SoCal BOOM welcomes students, postdoctoral researchers, faculty, and other scientists interested in marine biogeochemistry. The detailed page will carry the current registration form, eligibility, deadlines, attendance capacity, and other updates.
+
+- [Registration details](/register.html)
+- [Frequently asked questions](/faqs.html)
+- [Contact the organizing team](/contact.html)
+:::
+
+::: {.col-lg-8 .col-md-10 .portfolio-item .filter-present .event-overview-detail}
+### Present
+
+The scientific program highlights graduate-student and postdoctoral research through full-length talks, lightning talks, and poster presentations.
+
+- [Meeting schedule](/scientific-program/schedule.html)
+- [Abstract and presenter information](/scientific-program/abstracts.html)
+- [Presenter FAQs](/faqs.html)
+:::
+
+::: {.col-lg-8 .col-md-10 .portfolio-item .filter-travel .event-overview-detail}
+### [Travel & Logistics](/travel-logistics.html)
+
+Use the detailed travel page for the confirmed venue, arrival instructions, parking, public transportation, nearby lodging, and accessibility information.
+
+- [Plan your visit](/travel-logistics.html)
+- [Travel FAQs](/faqs.html)
+- [Ask the organizers](/contact.html)
+:::
+
+:::

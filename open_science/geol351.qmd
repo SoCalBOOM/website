@@ -1,0 +1,11 @@
+---
+title: GEOL 351 - Climate Dynamics
+format:
+  html:
+    sidebar: false
+    include-before-body: ../_includes/before-body-inner.html
+    toc: true
+---
+
+
+# GEOL351: Climate Dynamics

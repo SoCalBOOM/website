@@ -1,0 +1,26 @@
+<section id="travel-logistics" class="services section event-home-section">
+<div class="container">
+<div class="section-title">
+<h2>Travel &amp; Logistics</h2>
+<p>Travel information will include the confirmed venue, parking, public transit, lodging, and accessibility details.</p>
+</div>
+
+<ul class="row event-home-links" data-aos="fade-up">
+<li class="col-lg-4 col-md-6 icon-box">
+<div class="icon"><i class="bx bx-map"></i></div>
+<h3 class="title"><a href="/travel-logistics.html">Plan Your Visit</a></h3>
+<p class="description">Venue, parking, transit, lodging, and accessibility.</p>
+</li>
+<li class="col-lg-4 col-md-6 icon-box">
+<div class="icon"><i class="bx bx-help-circle"></i></div>
+<h3 class="title"><a href="/faqs.html">Travel FAQs</a></h3>
+<p class="description">Common questions about getting to the meeting.</p>
+</li>
+<li class="col-lg-4 col-md-6 icon-box">
+<div class="icon"><i class="bx bx-envelope"></i></div>
+<h3 class="title"><a href="/contact.html">Ask the Organizers</a></h3>
+<p class="description">Get help with logistics or accessibility questions.</p>
+</li>
+</ul>
+</div>
+</section>

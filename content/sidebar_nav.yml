@@ -1,0 +1,53 @@
+# Set this once the hosting location is known. Use "/" for a domain-root
+# deployment or a value such as "/SoCalBOOM/" for a project subdirectory.
+site_base_path: "/"
+
+hero:
+  name: SoCal BOOM
+  roles:
+    - SoCal Biogeochemical Ocean Observations and Models
+    - Registration opens Dec 1!
+
+main: []
+
+# Each entry becomes one visual navigation group. Starting another group
+# creates one of the requested dividers in the left navigation.
+satellite:
+  - label: ""
+    items:
+      - text: Register
+        href: register.html
+        icon: bx-edit
+      - category: Scientific Program
+        icon: bx-calendar
+        items:
+          - text: Schedule
+            href: scientific-program/schedule.html
+          - text: Abstracts
+            href: scientific-program/abstracts.html
+          - text: For Presenters
+            href: scientific-program/for-presenters.html
+      - text: Travel & Logistics
+        href: travel-logistics.html
+        icon: bx-map
+      - text: FAQs
+        href: faqs.html
+        icon: bx-help-circle
+  - label: ""
+    items:
+      - text: About
+        href: about.html
+        icon: bx-info-circle
+      - text: The Team
+        href: team.html
+        icon: bx-group
+      - category: Past BOOMs
+        icon: bx-history
+        items:
+          - text: "2026"
+            href: past-booms/2026.html
+  - label: ""
+    items:
+      - text: Contact Us
+        href: contact.html
+        icon: bx-envelope

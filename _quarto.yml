@@ -1,0 +1,31 @@
+project:
+  type: website
+  output-dir: _site
+  resources:
+    - assets/**
+  render:
+    - index.qmd
+    - register.qmd
+    - travel-logistics.qmd
+    - faqs.qmd
+    - about.qmd
+    - team.qmd
+    - contact.qmd
+    - scientific-program/schedule.qmd
+    - scientific-program/abstracts.qmd
+    - scientific-program/for-presenters.qmd
+    - past-booms/2026.qmd
+  pre-render:
+    - python3 scripts/build_sidebar_nav.py
+
+website:
+  title: "SoCal BOOM"
+  navbar: false
+
+format:
+  html:
+    toc: true
+    toc-location: right
+    theme: none
+    include-in-header: _includes/head.html
+    include-after-body: _includes/after-body.html

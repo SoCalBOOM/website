@@ -1,0 +1,62 @@
+---
+title: Travel & Logistics
+format:
+  html:
+    sidebar: false
+    include-before-body: _includes/before-body-inner.html
+---
+
+::: {.callout-warning}
+## Venue details require confirmation
+
+The information below describes the 2025 meeting at UCLA. Do not make travel
+plans for the next meeting until its venue and date are announced.
+:::
+
+## 2025 meeting location
+
+The 2025 conference was held at UCLA in Kaplan Hall A51 (Auditorium), with
+poster sessions and lunch in Powell Courtyard between Kaplan Hall and Powell
+Library.
+
+- [UCLA campus map: Kaplan Hall](https://www.maps.ucla.edu/?id=2043#!ct/75713?m/696758?s/kaplan)
+- [Kaplan Hall A51 entrance](https://goo.gl/maps/7saGrAC7VZEVX13E7?g_st=aw)
+
+## Parking
+
+Parking Structure 2 was the closest recommended visitor parking area in 2025.
+Structures 4 and 5 were alternatives, although they required a walk uphill.
+Visitors were instructed to use unmarked stalls and purchase a permit at a pay
+station or through ParkMobile.
+
+Parking prices and payment rules change. Consult [UCLA Transportation](https://transportation.ucla.edu/)
+for current information rather than relying on archived rates.
+
+## Public transportation
+
+UCLA and Westwood were served by several systems in 2025:
+
+| Provider | Useful routes or service |
+|---|---|
+| [LA Metro](https://www.metro.net/) | Wilshire, Sunset, and Sepulveda service to UCLA/Westwood |
+| [Santa Monica Big Blue Bus](https://www.bigbluebus.com/) | Connections from Santa Monica, the E Line, Marina del Rey, and the VA |
+| [Culver CityBus](https://www.culvercitybus.com/) | Line 6 and Rapid 6 via Sepulveda Boulevard |
+| [UCLA BruinBus](https://transportation.ucla.edu/getting-around-campus/bruinbus) | Campus and Westwood shuttle service |
+
+Routes and schedules should be checked directly with each provider before
+travel.
+
+## Lodging near UCLA
+
+Options listed for the 2025 meeting included:
+
+- [The Inn at UCLA](https://theinn.ucla.edu/)
+- [UCLA Meyer & Renee Luskin Conference Center](https://luskinconferencecenter.ucla.edu/)
+- [W Los Angeles – West Beverly Hills](https://www.marriott.com/en-us/hotels/laxwb-w-los-angeles-west-beverly-hills/overview/)
+- [Royal Palace Westwood Hotel](https://www.royalpalacewestwood.com/)
+- [Palihotel Westwood Village](https://www.palisociety.com/hotels/westwood-village)
+
+These are reference listings, not endorsements or reserved conference room
+blocks.
+
+*[Source: archived 2025 travel logistics](https://socalboom.wordpress.com/home/directions-to-usc/).*

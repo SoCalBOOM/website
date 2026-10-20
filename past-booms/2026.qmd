@@ -1,0 +1,20 @@
+---
+title: SoCal BOOM 2026
+format:
+  html:
+    sidebar: false
+    include-before-body: ../_includes/before-body-inner.html
+---
+
+This page is reserved for the 2026 meeting archive.
+
+After the event, it can preserve:
+
+- the final scientific program and schedule;
+- the presenter and poster lists;
+- event flyers and downloadable materials;
+- venue and travel information; and
+- acknowledgments, photos, and organizer information.
+
+Until then, current information belongs on the main Register, Scientific
+Program, and Travel & Logistics pages.

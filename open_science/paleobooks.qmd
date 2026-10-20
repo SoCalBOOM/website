@@ -1,0 +1,11 @@
+---
+title: PaleoBooks
+format:
+  html:
+    sidebar: false
+    include-before-body: ../_includes/before-body-inner.html
+    toc: true
+---
+
+
+# PaleoBooks

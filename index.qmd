@@ -1,0 +1,34 @@
+---
+format:
+  html:
+    title-block: false
+    toc: false
+    sidebar: false
+    include-before-body: _includes/before-body.html
+---
+
+::: {.container}
+::: {#about .about}
+::: {.section-title}
+## About
+:::
+
+#### Coming soon!
+The 5th Annual Southern California Biogeochemical Ocean Observations and Models (SoCal BOOM) meeting is for global and regional marine biogeochemistry – whether you work on a ship, on a computer, or by proxy. The symposium will be held on Saturday, November 22, 2025, at the University of California, Los Angeles, from 9AM – 8PM. The meeting aims to bring together students, postdocs, researchers, and faculty from across the Southern California region interested in marine biogeochemistry.
+
+<div style="height: 1.5rem;"></div>
+
+#### Mission
+This one-day symposium is designed to highlight the work of early-career researchers, with both the symposium and the poster session featuring presentations by graduate students and postdoctoral researchers (with faculty encouraged to attend). The aim of this meeting is to foster interaction and collaboration among oceanographers who use observations and modeling approaches to understand Earth systems. We welcome scientists engaged in a wide range of ocean biogeochemical research and encourage participants to highlight aspects of their research that draw upon theoretical or numerical modeling approaches.
+
+:::
+
+
+::: {#overview .portfolio .section-bg}
+::: {.section-title}
+## Overview {#overview-section}
+:::
+{{< include subpages/overview.qmd >}}
+:::
+
+:::

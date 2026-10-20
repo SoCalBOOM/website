@@ -1,0 +1,64 @@
+---
+title: For Presenters
+format:
+  html:
+    sidebar: false
+    include-before-body: ../_includes/before-body-inner.html
+---
+
+::: {.callout-warning}
+## 2026 presenter guidance is forthcoming
+
+Presentation formats, timing, poster dimensions, and day-of instructions have
+not yet been confirmed. The information below is carried forward from the 2025
+symposium as a planning reference.
+:::
+
+## Who can present?
+
+For the 2025 symposium, oral and poster presentations were open to graduate
+students and postdoctoral researchers. Faculty and other researchers were
+encouraged to attend and participate in the discussion.
+
+To submit work for the next meeting, see [Abstracts](abstracts.qmd).
+
+## Presentation opportunities
+
+SoCal BOOM is designed to foreground early-career research. In 2025, graduate
+students and postdoctoral researchers could request one of three formats:
+
+- a full-length oral presentation;
+- a lightning talk; or
+- a poster presentation.
+
+## Oral presentations
+
+### Full-length talks
+
+The 2025 program assigned each speaker a 15-minute slot: 12 minutes for the
+presentation and 3 minutes for questions. Speakers were asked to bring their
+presentation on a flash drive or send it to an organizer before the meeting.
+
+### Lightning talks
+
+Lightning speakers received a 5-minute presentation slot. Questions were held
+until the end of the session so the audience could discuss the lightning talks
+together.
+
+## Poster presentations
+
+The maximum poster size in 2025 was 45 × 45 inches. Both 45 × 45-inch square
+posters and 45 × 36-inch horizontal posters fit the supplied double-sided
+boards. Clips and push pins were provided.
+
+Two poster sessions were held during the meeting. Presenters checked in at the
+registration table to receive a board location and were expected to attend
+their poster only during their assigned session.
+
+## Before the meeting
+
+Once the current program is released, check the [Schedule](schedule.qmd) for
+your assigned talk time or poster session. Questions can be sent through
+[Contact Us](../contact.qmd).
+
+*[Source: 2025 information for presenters](https://socalboom.wordpress.com/home/information-for-presenters/).*
