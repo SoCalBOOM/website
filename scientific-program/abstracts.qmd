@@ -7,23 +7,22 @@ format:
 ---
 
 ::: {.callout-warning}
-## 2026 submission details are forthcoming
+## Submit an abstract
 
-The submission form, abstract deadline, eligibility, and abstract requirements
-have not yet been posted. Details from the 2025 symposium are retained as a
-planning reference and should be reconfirmed for the next meeting.
+Abstract submissions are included in the 2027 registration form. Submission
+deadlines, eligibility, and abstract requirements have not yet been posted.
+
+[Open the registration and abstract form](https://docs.google.com/forms/d/1dtzYnySbiBodRr7eGd7j7YmSnmkKvqxb0JqRscCwvnA/edit){.btn .btn-primary target="_blank"}
 :::
 
 ## Submission information
 
-The 2025 meeting used the registration form for abstract submission. Talk
-abstracts had an advance deadline, while poster submissions remained open
-until the meeting reached capacity. Current instructions and deadlines will be
-added here when they are available.
+The 2027 meeting uses the registration form for abstract submission. Current
+instructions and deadlines will be added here when they are available.
 
 Once the current program is released, presenters should check the
 [Schedule](schedule.qmd) for their assigned time or poster session. Accepted
 presenters can find format and preparation guidance on [For Presenters](for-presenters.qmd).
 Questions about submissions can be sent through [Contact Us](../contact.qmd).
 
-*[Source: 2025 registration and abstract submission information](https://socalboom.wordpress.com/home/registration-and-abstract-submission/).*
+*[Source: 2027 registration and abstract submission information](https://socalboom.wordpress.com/home/registration-and-abstract-submission/).*

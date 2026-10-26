@@ -14,7 +14,7 @@ project:
     - scientific-program/schedule.qmd
     - scientific-program/abstracts.qmd
     - scientific-program/for-presenters.qmd
-    - past-booms/2026.qmd
+    - past-booms/2027.qmd
   pre-render:
     - python3 scripts/build_sidebar_nav.py
 

@@ -19,11 +19,5 @@ The primary email address for the next meeting has not yet been confirmed.
 
 ## Previous registration contact
 
-The 2025 website directed registration and abstract-submission questions to
-Dou Li at [douli@atmos.ucla.edu](mailto:douli@atmos.ucla.edu). Please confirm
-that this address should remain on the new site before removing the notice
-above.
-
-The previous organizing roster is available on [The Team](team.qmd) page.
-
-*[Source: archived 2025 contact page](https://socalboom.wordpress.com/home/contact-us/).*
+The 2027 website directed registration and abstract-submission questions to
+Cat Odendahl at [odendahl@usc.edu](mailto:odendahl@usc.edu). 

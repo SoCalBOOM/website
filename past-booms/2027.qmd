@@ -1,12 +1,12 @@
 ---
-title: SoCal BOOM 2026
+title: SoCal BOOM 2027
 format:
   html:
     sidebar: false
     include-before-body: ../_includes/before-body-inner.html
 ---
 
-This page is reserved for the 2026 meeting archive.
+This page is reserved for the 2027 meeting archive.
 
 After the event, it can preserve:
 

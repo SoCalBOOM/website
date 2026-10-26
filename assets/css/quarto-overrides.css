@@ -733,3 +733,45 @@ header#title-block-header:empty {
   line-height: 1.35;
   text-align: center;
 }
+
+/* Registration deadline cards */
+.registration-deadlines {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1.25rem;
+  margin: 2rem 0;
+}
+
+.registration-deadline {
+  padding: 2rem 1.5rem;
+  border: 2px solid #ff928b;
+  border-radius: 14px;
+  background: rgba(255, 146, 139, 0.1);
+  text-align: center;
+}
+
+.registration-deadline h3 {
+  margin: 0 0 0.75rem;
+  color: #173b6c;
+  font-size: 1.15rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+}
+
+.deadline-date {
+  color: #173b6c;
+  font-size: clamp(1.8rem, 4vw, 3rem);
+  font-weight: 700;
+  line-height: 1.1;
+}
+
+.registration-form-link {
+  margin: 1.5rem 0;
+  text-align: center;
+}
+
+@media (max-width: 700px) {
+  .registration-deadlines {
+    grid-template-columns: 1fr;
+  }
+}

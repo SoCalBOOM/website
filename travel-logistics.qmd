@@ -6,57 +6,100 @@ format:
     include-before-body: _includes/before-body-inner.html
 ---
 
-::: {.callout-warning}
-## Venue details require confirmation
+::: {.callout-note}
+## Meeting location
 
-The information below describes the 2025 meeting at UCLA. Do not make travel
-plans for the next meeting until its venue and date are announced.
+The 2027 meeting will be held at USC's University Park Campus. The specific
+building will be announced before the meeting. Check current transit schedules,
+fares, and parking rules when planning your trip.
 :::
 
-## 2025 meeting location
+## Best ways to reach USC
 
-The 2025 conference was held at UCLA in Kaplan Hall A51 (Auditorium), with
-poster sessions and lunch in Powell Courtyard between Kaplan Hall and Powell
-Library.
+### LA public transit
 
-- [UCLA campus map: Kaplan Hall](https://www.maps.ucla.edu/?id=2043#!ct/75713?m/696758?s/kaplan)
-- [Kaplan Hall A51 entrance](https://goo.gl/maps/7saGrAC7VZEVX13E7?g_st=aw)
+Metro is usually the simplest way to reach campus without dealing with USC
+parking. The Metro E Line serves USC at Expo/Vermont, Expo Park/USC, and
+Jefferson/USC.
 
-## Parking
+- From Santa Monica, Culver City, and other Westside locations, take the E Line
+  directly toward downtown Los Angeles.
+- From UCLA or Westwood, take a local bus, Santa Monica Big Blue Bus, or Culver
+  CityBus connection to the E Line.
+- From Los Angeles Union Station, take the Metro B or D Line to 7th St/Metro
+  Center, then transfer to the E Line.
+- Other Metro rail and bus routes connect with the E Line throughout Los
+  Angeles County.
 
-Parking Structure 2 was the closest recommended visitor parking area in 2025.
-Structures 4 and 5 were alternatives, although they required a walk uphill.
-Visitors were instructed to use unmarked stalls and purchase a permit at a pay
-station or through ParkMobile.
+Use a TAP card or the TAP app and check [Metro](https://www.metro.net/) for the
+best route on the day of travel.
 
-Parking prices and payment rules change. Consult [UCLA Transportation](https://transportation.ucla.edu/)
-for current information rather than relying on archived rates.
+### Intercity rail
 
-## Public transportation
+Amtrak and Metrolink are good options for attendees traveling from outside
+central Los Angeles.
 
-UCLA and Westwood were served by several systems in 2025:
+- **From Santa Barbara, Ventura, or the San Fernando Valley:** use Amtrak's
+  Pacific Surfliner or Metrolink's Ventura County Line.
+- **From Orange County or San Diego:** use the Pacific Surfliner or Metrolink's
+  Orange County Line.
+- **From the Inland Empire and other regional locations:** use the applicable
+  Metrolink line.
 
-| Provider | Useful routes or service |
-|---|---|
-| [LA Metro](https://www.metro.net/) | Wilshire, Sunset, and Sepulveda service to UCLA/Westwood |
-| [Santa Monica Big Blue Bus](https://www.bigbluebus.com/) | Connections from Santa Monica, the E Line, Marina del Rey, and the VA |
-| [Culver CityBus](https://www.culvercitybus.com/) | Line 6 and Rapid 6 via Sepulveda Boulevard |
-| [UCLA BruinBus](https://transportation.ucla.edu/getting-around-campus/bruinbus) | Campus and Westwood shuttle service |
+Most intercity trips arrive at Los Angeles Union Station. From there, take the
+Metro B or D Line to 7th St/Metro Center and transfer to the E Line for USC.
+Train frequency varies, especially on weekends, so check schedules in advance.
 
-Routes and schedules should be checked directly with each provider before
-travel.
+### Driving and parking
 
-## Lodging near UCLA
+If you drive, use a live navigation app for the best route. Traffic near
+downtown Los Angeles, I-10, and I-110 can change quickly.
 
-Options listed for the 2025 meeting included:
+You have two practical parking options:
 
-- [The Inn at UCLA](https://theinn.ucla.edu/)
-- [UCLA Meyer & Renee Luskin Conference Center](https://luskinconferencecenter.ucla.edu/)
-- [W Los Angeles – West Beverly Hills](https://www.marriott.com/en-us/hotels/laxwb-w-los-angeles-west-beverly-hills/overview/)
-- [Royal Palace Westwood Hotel](https://www.royalpalacewestwood.com/)
-- [Palihotel Westwood Village](https://www.palisociety.com/hotels/westwood-village)
+#### Park at USC
 
-These are reference listings, not endorsements or reserved conference room
-blocks.
+Visitor parking is available in USC campus structures, generally on a cashless,
+first-come basis. Common options include McCarthy Way, Figueroa Street, Downey
+Way, Royal Street, and USC Shrine. The planning estimate is approximately $20
+per day, but rates and availability can change.
 
-*[Source: archived 2025 travel logistics](https://socalboom.wordpress.com/home/directions-to-usc/).*
+Check USC's current parking instructions before arriving. Nearby street
+parking is limited and often metered or permit-restricted.
+
+#### Park at Metro and ride in
+
+Parking at a Metro station and taking the E Line can be cheaper and easier than
+driving onto campus. Metro parking is often about $3 per day, plus train fare;
+some lots may be free on weekends or holidays.
+
+Useful E Line park-and-ride options west of USC include:
+
+- La Cienega/Jefferson
+- Culver City
+- Expo/Sepulveda
+- Expo/Bundy
+- Expo/Crenshaw
+
+Travelers from other directions can park along the A or B Line and transfer to
+the E Line. Ride to Expo Park/USC or Jefferson/USC. Check current lot prices,
+hours, and availability before choosing a station.
+
+## Nearby lodging
+
+- [USC Hotel](https://uschotel.usc.edu/) is adjacent to campus.
+- Downtown Los Angeles and LA Live have many hotels with convenient Metro
+  access to USC.
+- Koreatown and Culver City offer additional options with transit connections.
+
+These are general suggestions, not reserved conference room blocks.
+
+## Useful links
+
+- [LA Metro](https://www.metro.net/)
+- [Metro parking lots](https://www.metro.net/riding/parking/lots/)
+- [Metro parking lots by line](https://www.metro.net/riding/parking/lotsbyline/)
+- [Metrolink](https://metrolinktrains.com/)
+- [Amtrak Pacific Surfliner](https://www.pacificsurfliner.com/)
+- [USC Transportation](https://transnet.usc.edu/)
+- [USC Hotel](https://uschotel.usc.edu/)
