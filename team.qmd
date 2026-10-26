@@ -30,7 +30,21 @@ format:
 
 ## Faculty organizers
 
-- Daniele Bianchi
-- Seth John
-- Naomi Levine
-- Patrick Rafter
+<div class="faculty-grid">
+<article class="faculty-card">
+<div class="faculty-photo-placeholder" aria-label="Photo forthcoming"><i class="bx bx-user" aria-hidden="true"></i><span>Photo forthcoming</span></div>
+<h3>Daniele Bianchi</h3>
+</article>
+<article class="faculty-card">
+<div class="faculty-photo-placeholder" aria-label="Photo forthcoming"><i class="bx bx-user" aria-hidden="true"></i><span>Photo forthcoming</span></div>
+<h3>Seth John</h3>
+</article>
+<article class="faculty-card">
+<div class="faculty-photo-placeholder" aria-label="Photo forthcoming"><i class="bx bx-user" aria-hidden="true"></i><span>Photo forthcoming</span></div>
+<h3>Naomi Levine</h3>
+</article>
+<article class="faculty-card">
+<div class="faculty-photo-placeholder" aria-label="Photo forthcoming"><i class="bx bx-user" aria-hidden="true"></i><span>Photo forthcoming</span></div>
+<h3>Patrick Rafter</h3>
+</article>
+</div>
