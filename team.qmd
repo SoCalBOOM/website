@@ -15,18 +15,19 @@ format:
 - Ying-Chih Chuang
 - Mary Dinneen
 - Rose Faucher
-- Mia Franks
+- **Mia Franks**
 - Tanaya Gondhalekar
 - Siobhan Kassem-Courtney
 - Jordan Landers
 - Morgan Lindback
 - Alexis MacK
 - Bradley Mackett
-- Nataly Pineda
+- **Cat Odendahl**
+- **Nataly Pineda**
 - Joshua Sacks
 - Nathan Williams
 - Andrea Wilson
-- Paige Wise
+- **Paige Wise**
 
 ## Faculty organizers
 
@@ -45,6 +46,14 @@ format:
 </article>
 <article class="faculty-card">
 <div class="faculty-photo-placeholder" aria-label="Photo forthcoming"><i class="bx bx-user" aria-hidden="true"></i><span>Photo forthcoming</span></div>
+<h3>Keith Moore</h3>
+</article>
+<article class="faculty-card">
+<div class="faculty-photo-placeholder" aria-label="Photo forthcoming"><i class="bx bx-user" aria-hidden="true"></i><span>Photo forthcoming</span></div>
 <h3>Patrick Rafter</h3>
+</article>
+<article class="faculty-card">
+<div class="faculty-photo-placeholder" aria-label="Photo forthcoming"><i class="bx bx-user" aria-hidden="true"></i><span>Photo forthcoming</span></div>
+<h3>Alyson Santoro</h3>
 </article>
 </div>

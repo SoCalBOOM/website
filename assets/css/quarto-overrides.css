@@ -1036,3 +1036,30 @@ table tbody tr:nth-child(even) {
     grid-template-columns: 1fr;
   }
 }
+
+/* Homepage overview-panel hover treatment */
+.portfolio #portfolio-flters li:hover,
+.portfolio #portfolio-flters li.filter-active {
+  color: #8a3733;
+}
+
+.portfolio .portfolio-wrap::before {
+  background: rgba(254, 195, 166, 0.42);
+}
+
+.portfolio .portfolio-wrap .portfolio-links a {
+  background: rgba(255, 146, 139, 0.94);
+  color: var(--boom-ink);
+  font-size: 1rem;
+  font-weight: 700;
+  padding: 0.8rem 0.5rem;
+}
+
+.portfolio .portfolio-wrap .portfolio-links a:hover {
+  background: var(--boom-tangerine);
+  color: var(--boom-ink);
+}
+
+.portfolio .portfolio-wrap .portfolio-links a + a {
+  border-left-color: var(--boom-peach);
+}
