@@ -6,9 +6,18 @@ hero:
   name: SoCal BOOM
   roles:
     - SoCal Biogeochemical Ocean Observations and Models
-    - Registration opens Dec 1!
+    - Registration opens Nov 2!
+    - Abstracts due Jan 6!
 
-main: []
+main:
+  - text: Home
+    href: index.html
+    icon: bx-home
+    active: true
+  - text: 2027 BOOM
+    href: "#boom-2027"
+    icon: bx-calendar
+    scrollto: true
 
 # Each entry becomes one visual navigation group. Starting another group
 # creates one of the requested dividers in the left navigation.
@@ -44,8 +53,8 @@ satellite:
       - category: Past BOOMs
         icon: bx-history
         items:
-          - text: "2026"
-            href: past-booms/2026.html
+          - text: "2027"
+            href: past-booms/2027.html
   - label: ""
     items:
       - text: Contact Us

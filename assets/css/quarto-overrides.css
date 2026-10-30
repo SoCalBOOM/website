@@ -733,3 +733,385 @@ header#title-block-header:empty {
   line-height: 1.35;
   text-align: center;
 }
+
+/* Registration deadline cards */
+.registration-deadlines {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1.25rem;
+  margin: 2rem 0;
+}
+
+.registration-deadline {
+  padding: 2rem 1.5rem;
+  border: 2px solid #ff928b;
+  border-radius: 14px;
+  background: rgba(255, 146, 139, 0.1);
+  text-align: center;
+}
+
+.registration-deadline h3 {
+  margin: 0 0 0.75rem;
+  color: #173b6c;
+  font-size: 1.15rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+}
+
+.deadline-date {
+  color: #173b6c;
+  font-size: clamp(1.8rem, 4vw, 3rem);
+  font-weight: 700;
+  line-height: 1.1;
+}
+
+.registration-form-link {
+  margin: 1.5rem 0;
+  text-align: center;
+}
+
+@media (max-width: 700px) {
+  .registration-deadlines {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* -------------------------------------------
+   SoCal BOOM 2027 color palette
+   ------------------------------------------- */
+:root {
+  --boom-tangerine: #ffac81;
+  --boom-salmon: #ff928b;
+  --boom-peach: #fec3a6;
+  --boom-vanilla: #efe9ae;
+  --boom-tea: #cdeac0;
+  --boom-ink: #2b2422;
+  --boom-muted-ink: #5f514c;
+}
+
+body {
+  color: var(--boom-ink);
+}
+
+a {
+  color: #8a3733;
+}
+
+a:hover,
+a:focus {
+  color: #6d2926;
+}
+
+/* Sidebar navigation */
+#header {
+  background: var(--boom-tea);
+}
+
+#header .profile h1 a,
+#header .profile h1 a:hover {
+  color: var(--boom-ink);
+}
+
+#header #navbar.nav-menu.navbar > ul + ul {
+  border-top-color: rgba(43, 36, 34, 0.2);
+}
+
+#navbar .nav-section-label,
+.nav-menu a,
+.nav-menu a:focus,
+#navbar .nav-dropdown summary {
+  color: var(--boom-muted-ink);
+}
+
+.nav-menu a i,
+.nav-menu a:focus i,
+#navbar .nav-dropdown summary i {
+  color: #8a3733;
+}
+
+.nav-menu a:hover,
+.nav-menu .active,
+.nav-menu .active:focus,
+.nav-menu li:hover > a,
+#navbar .nav-dropdown summary:hover,
+#navbar .nav-dropdown details[open] > summary {
+  color: var(--boom-ink);
+}
+
+.nav-menu a:hover i,
+.nav-menu .active i,
+.nav-menu .active:focus i,
+.nav-menu li:hover > a i,
+#navbar .nav-dropdown details[open] > summary i {
+  color: #8a3733;
+}
+
+.mobile-nav-toggle,
+.back-to-top {
+  background: var(--boom-salmon);
+  color: var(--boom-ink);
+}
+
+.mobile-nav-toggle:hover,
+.back-to-top:hover {
+  background: var(--boom-tangerine);
+  color: var(--boom-ink);
+}
+
+.back-to-top i {
+  color: var(--boom-ink);
+}
+
+/* Homepage and headings */
+#hero p span {
+  border-bottom-color: var(--boom-salmon);
+}
+
+.section-bg {
+  background: rgba(239, 233, 174, 0.38);
+}
+
+.section-title h2,
+.section-title h2 a,
+.about .content h3,
+.quarto-title-block .title,
+.quarto-inner-content h2,
+.quarto-inner-content h2 a,
+.quarto-inner-content h3,
+.quarto-inner-content h4,
+.quarto-toc-row > nav#TOC .page-intro strong,
+.citation-list strong,
+.team-gallery figcaption {
+  color: var(--boom-ink);
+}
+
+.section-title h2::after,
+.quarto-title-block .title::after {
+  background: var(--boom-salmon);
+}
+
+.section-title h2 a:hover,
+.quarto-inner-content h2 a:hover,
+.figure-pdf-link:hover {
+  color: #8a3733;
+}
+
+.quarto-inner-content h5,
+.quarto-inner-content h6,
+.quarto-toc-row > nav#TOC h2#toc-title,
+.quarto-toc-row > nav#TOC .page-intro p,
+.figure-banner-more,
+.favorite-figure p,
+.citation-list {
+  color: var(--boom-muted-ink);
+}
+
+/* Buttons, cards, and callouts */
+.btn-primary,
+.btn-primary:focus {
+  border-color: var(--boom-salmon);
+  background: var(--boom-salmon);
+  color: var(--boom-ink);
+  font-weight: 700;
+}
+
+.btn-primary:hover,
+.btn-primary:active {
+  border-color: var(--boom-tangerine);
+  background: var(--boom-tangerine);
+  color: var(--boom-ink);
+}
+
+.event-snapshot-register {
+  background: linear-gradient(135deg, var(--boom-salmon), var(--boom-tangerine));
+}
+
+.event-snapshot-present {
+  background: linear-gradient(135deg, var(--boom-peach), var(--boom-vanilla));
+}
+
+.event-snapshot-travel {
+  background: linear-gradient(135deg, var(--boom-tea), var(--boom-vanilla));
+}
+
+.event-snapshot-visual {
+  color: var(--boom-ink);
+}
+
+.callout.callout-style-default.callout-note {
+  border-left-color: var(--boom-tea);
+  background-color: rgba(205, 234, 192, 0.32);
+}
+
+.callout.callout-style-default.callout-warning {
+  border-left-color: var(--boom-tangerine);
+  background-color: rgba(255, 172, 129, 0.22);
+}
+
+.callout.callout-style-default.callout-important {
+  border-left-color: var(--boom-salmon);
+  background-color: rgba(255, 146, 139, 0.2);
+}
+
+.registration-deadline {
+  border-color: var(--boom-salmon);
+  background: rgba(254, 195, 166, 0.32);
+}
+
+.registration-deadline h3,
+.deadline-date {
+  color: var(--boom-ink);
+}
+
+/* Tables and subtle dividers */
+table thead {
+  background: var(--boom-tea);
+}
+
+table tbody tr:nth-child(even) {
+  background: rgba(239, 233, 174, 0.25);
+}
+
+.quarto-toc-row > nav#TOC,
+.quarto-toc-row > nav#TOC .page-intro,
+#content-footer.content-footer {
+  border-color: rgba(43, 36, 34, 0.16);
+}
+
+/* Faculty organizer cards; replace each placeholder with an <img> later. */
+.faculty-grid {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 1.25rem;
+  margin: 1.25rem 0 2.5rem;
+}
+
+.faculty-card {
+  overflow: hidden;
+  border: 1px solid rgba(43, 36, 34, 0.14);
+  border-radius: 14px;
+  background: #fff;
+  box-shadow: 0 6px 18px rgba(43, 36, 34, 0.08);
+}
+
+.faculty-photo-placeholder {
+  display: flex;
+  aspect-ratio: 1 / 1;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 0.5rem;
+  background: linear-gradient(135deg, var(--boom-peach), var(--boom-tea));
+  color: var(--boom-muted-ink);
+}
+
+.faculty-photo-placeholder i {
+  font-size: 4rem;
+  color: #8a3733;
+}
+
+.faculty-photo-placeholder span {
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+}
+
+.faculty-card h3 {
+  margin: 0;
+  padding: 1rem;
+  color: var(--boom-ink);
+  font-size: 1rem;
+  text-align: center;
+}
+
+@media (max-width: 900px) {
+  .faculty-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 520px) {
+  .faculty-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* Homepage overview-panel hover treatment */
+.portfolio #portfolio-flters li:hover,
+.portfolio #portfolio-flters li.filter-active {
+  color: #8a3733;
+}
+
+.portfolio .portfolio-wrap::before {
+  background: rgba(254, 195, 166, 0.42);
+}
+
+.portfolio .portfolio-wrap .portfolio-links a {
+  background: rgba(255, 146, 139, 0.94);
+  color: var(--boom-ink);
+  font-size: 1rem;
+  font-weight: 700;
+  padding: 0.8rem 0.5rem;
+}
+
+.portfolio .portfolio-wrap .portfolio-links a:hover {
+  background: var(--boom-tangerine);
+  color: var(--boom-ink);
+}
+
+.portfolio .portfolio-wrap .portfolio-links a + a {
+  border-left-color: var(--boom-peach);
+}
+
+/* Compact 2027 event details on the scrolling homepage */
+.boom-event-section {
+  padding: 60px 0;
+  text-align: center;
+}
+
+.boom-event-section .section-title h2::after {
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.boom-event-details {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1.25rem;
+  margin: 1.5rem 0 2rem;
+}
+
+.boom-event-detail {
+  padding: 1.75rem 1.25rem;
+  border: 1px solid rgba(43, 36, 34, 0.14);
+  border-radius: 14px;
+  background: #fff;
+  box-shadow: 0 6px 18px rgba(43, 36, 34, 0.07);
+}
+
+.boom-event-detail i {
+  color: #8a3733;
+  font-size: 2.5rem;
+}
+
+.boom-event-detail h3 {
+  margin: 0.5rem 0;
+  color: var(--boom-ink);
+  font-size: 1rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+}
+
+.boom-event-detail p {
+  margin: 0;
+  color: var(--boom-ink);
+  font-size: 1.1rem;
+  font-weight: 700;
+}
+
+@media (max-width: 700px) {
+  .boom-event-details {
+    grid-template-columns: 1fr;
+  }
+}

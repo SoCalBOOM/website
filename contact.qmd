@@ -11,19 +11,6 @@ format:
 For questions about the upcoming SoCal BOOM meeting, registration, abstract
 submission, accessibility, or travel, contact the organizing committee.
 
-::: {.callout-warning}
-## Current contact address needed
+## Email
 
-The primary email address for the next meeting has not yet been confirmed.
-:::
-
-## Previous registration contact
-
-The 2025 website directed registration and abstract-submission questions to
-Dou Li at [douli@atmos.ucla.edu](mailto:douli@atmos.ucla.edu). Please confirm
-that this address should remain on the new site before removing the notice
-above.
-
-The previous organizing roster is available on [The Team](team.qmd) page.
-
-*[Source: archived 2025 contact page](https://socalboom.wordpress.com/home/contact-us/).*
+[southerncalboom@gmail.com](mailto:southerncalboom@gmail.com)

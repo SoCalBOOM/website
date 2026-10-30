@@ -6,33 +6,22 @@ format:
     include-before-body: _includes/before-body-inner.html
 ---
 
-::: {.callout-warning}
-## Registration is not yet open
+:::: {.registration-deadlines}
+::: {.registration-deadline}
+### Registration opens
 
-The current meeting's registration form, deadlines, attendance cap, and venue
-details still need to be confirmed. The information below describes the 2025
-meeting and is retained as a planning reference.
+<div class="deadline-date">November 2, 2026</div>
 :::
 
-## Who can attend?
+::: {.registration-deadline}
+### Abstracts due
 
-SoCal BOOM brings together students, postdoctoral researchers, researchers,
-and faculty from across Southern California who are interested in global and
-regional marine biogeochemistry. Undergraduates and other members of the
-research community are also welcome to attend.
+<div class="deadline-date">January 6, 2027</div>
+:::
+::::
 
-## Registration and deadlines
+<div class="registration-form-link">
+[Open the registration and abstract form](https://docs.google.com/forms/d/1dtzYnySbiBodRr7eGd7j7YmSnmkKvqxb0JqRscCwvnA/edit){.btn .btn-primary target="_blank"}
 
-The 2025 meeting used a single Google form for attendance registration and
-abstract submission. Talk abstracts had an advance deadline, while poster
-submissions and attendance registration remained open until the meeting
-reached its 120-person capacity.
-
-Current registration and abstract deadlines will be added here when they are
-available. Questions can be directed through the [Contact Us](contact.qmd)
-page.
-
-Planning to give a talk or poster? See [For Presenters](scientific-program/for-presenters.qmd)
-for presentation formats and practical guidance.
-
-*[Source: 2025 registration and abstract submission information](https://socalboom.wordpress.com/home/registration-and-abstract-submission/).*
+[Read the frequently asked questions](faqs.qmd)
+</div>

@@ -6,37 +6,4 @@ format:
     include-before-body: ../_includes/before-body-inner.html
 ---
 
-::: {.callout-warning}
-## The current schedule has not been announced
-
-The table below summarizes the shape of the November 22, 2025 meeting. It is
-provided as a reference, not as the schedule for the next SoCal BOOM.
-:::
-
-## 2025 at a glance
-
-| Time | Activity |
-|---|---|
-| 9:00 AM | Registration and refreshments |
-| 9:25 AM | Welcoming remarks |
-| 9:30 AM | Oral Session 1: laboratory-based research |
-| 10:30 AM | Coffee and snack break |
-| 10:45 AM | Keynote presentation |
-| 11:30 AM | Poster Session 1 |
-| 12:30 PM | Lunch and breakout session |
-| 1:30 PM | Poster Session 2 |
-| 2:30 PM | Oral Session 2: field-based research |
-| 3:30 PM | Coffee and snack break |
-| 3:50 PM | Oral Session 3: modeling, followed by lightning talks |
-| 4:50 PM | Closing remarks |
-| 5:30 PM | Informal dinner |
-
-The 2025 program combined laboratory, field, observational, and modeling
-research with two poster sessions and an invited keynote. The keynote speaker
-was Noelle Held, presenting on nutrient limitation at the San Pedro Ocean
-Time-series.
-
-Current speaker assignments, poster sessions, and social-event details will be
-added when the new program is finalized.
-
-*[Source: archived 2025 oral schedule](https://socalboom.wordpress.com/wp-content/uploads/2025/11/oralscheduleflyer-1.pdf).*
+## TBD
