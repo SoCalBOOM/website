@@ -11,13 +11,6 @@ format:
 For questions about the upcoming SoCal BOOM meeting, registration, abstract
 submission, accessibility, or travel, contact the organizing committee.
 
-::: {.callout-warning}
-## Current contact address needed
+## Email
 
-The primary email address for the next meeting has not yet been confirmed.
-:::
-
-## Previous registration contact
-
-The 2027 website directed registration and abstract-submission questions to
-Cat Odendahl at [odendahl@usc.edu](mailto:odendahl@usc.edu). 
+[southerncalboom@gmail.com](mailto:southerncalboom@gmail.com)

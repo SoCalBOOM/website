@@ -14,6 +14,10 @@ main:
     href: index.html
     icon: bx-home
     active: true
+  - text: 2027 BOOM
+    href: "#boom-2027"
+    icon: bx-calendar
+    scrollto: true
 
 # Each entry becomes one visual navigation group. Starting another group
 # creates one of the requested dividers in the left navigation.

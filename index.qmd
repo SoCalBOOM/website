@@ -23,6 +23,40 @@ This one-day symposium is designed to highlight the work of early-career researc
 
 :::
 
+:::: {#boom-2027 .boom-event-section .section-bg}
+::: {.section-title}
+## 2027 BOOM
+:::
+
+::: {.boom-event-details}
+::: {.boom-event-detail}
+<i class="bx bx-calendar" aria-hidden="true"></i>
+
+### Date
+
+Saturday, February 6, 2027
+:::
+
+::: {.boom-event-detail}
+<i class="bx bx-time-five" aria-hidden="true"></i>
+
+### Time
+
+9:00 AM–8:00 PM
+:::
+
+::: {.boom-event-detail}
+<i class="bx bx-map" aria-hidden="true"></i>
+
+### Location
+
+TBD @ USC
+:::
+:::
+
+[View the full schedule](scientific-program/schedule.qmd){.btn .btn-primary}
+::::
+
 
 ::: {#overview .portfolio .section-bg}
 ::: {.section-title}
